@@ -1,7 +1,7 @@
 {
   "name": "Scope Wallet Welcome NFT",
   "description": "Welcome to Scope Wallet. This NFT celebrates your onboarding and marks the beginning of your journey into the Scope ecosystem.",
-  "image": "ipfs://<IPFS_IMAGE_HASH>/scope-welcome.png",
+  "image": "https://raw.githubusercontent.com/Lambda256/scope-storage/refs/heads/main/tokens/image/ba942bb1cb420a302df3a287e0371376ac41975e.png",
   "external_url": "https://scopewallet.io",
   "attributes": [
     {
