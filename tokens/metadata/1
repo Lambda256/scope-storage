@@ -1,25 +1,23 @@
 {
-  "name": "Scope Wallet Welcome NFT",
-  "description": "Welcome to Scope Wallet. This NFT celebrates your onboarding and marks the beginning of your journey into the Scope ecosystem.",
+  "name": "Mirae Asset NFT",
+  "description": "미래에셋 지갑 서비스에 참여해 주셔서 감사합니다. 이 NFT는 온보딩을 완료한 고객에게 제공되는 웰컴 토큰입니다.",
   "image": "https://raw.githubusercontent.com/Lambda256/scope-storage/refs/heads/main/tokens/image/ba942bb1cb420a302df3a287e0371376ac41975e.png",
-  "external_url": "https://scopewallet.io",
   "attributes": [
     {
       "trait_type": "Collection",
-      "value": "Scope Wallet"
+      "value": "Mirae Asset"
     },
     {
-      "trait_type": "Type",
-      "value": "Onboarding Badge"
+      "trait_type": "Creator",
+      "value": "Lambda256"
     },
     {
-      "trait_type": "Edition",
-      "value": "Welcome"
+      "trait_type": "Category",
+      "value": "Onboarding"
     },
     {
       "trait_type": "Membership",
-      "value": "Basic"
+      "value": "Welcome"
     }
   ]
 }
-

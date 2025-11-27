@@ -1,0 +1,23 @@
+{
+  "name": "Scope Welcome NFT",
+  "description": "Scope에 참여하신 것을 환영합니다. 이 NFT는 Lambda256이 발행한 온보딩 기념 토큰으로, Scope 생태계 참여의 시작을 의미합니다!",
+  "image": "https://raw.githubusercontent.com/Lambda256/scope-storage/refs/heads/main/tokens/image/c882a9e1c4b5fbcccb434a565ff9482557e6c23c.png",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Scope Wallet"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Lambda256"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Onboarding"
+    },
+    {
+      "trait_type": "Membership",
+      "value": "Welcome"
+    }
+  ]
+}
